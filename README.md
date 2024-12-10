@@ -28,3 +28,6 @@ python manage.py runserver
 ```bash
  http://localhost:8000/
  ```
+ After visit the url it shows the page:
+ 
+ ![image](images/image.png)
