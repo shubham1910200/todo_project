@@ -10,7 +10,7 @@ A simple Django-based To-Do List application.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shubham1910200/backend.git
+   git clone https://github.com/shubham1910200/todo_project.git
    ```
 2. Navigate to the project directory
  ```bash
